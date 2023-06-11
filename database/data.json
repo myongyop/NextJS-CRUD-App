@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Lee Myongyop",
+    "avatar":"",
+    "email":"fad@fda.co.kr",
+    "salary": 2000,
+    "date":"2022-20-02",
+    "status":"Active"
+  },
+  {
+    "name":"Lee Kichan",
+    "avatar":"",
+    "email":"fad@fda.co.kr",
+    "salary": 2000,
+    "date":"2022-20-02",
+    "status":"Active"
+  },
+  {
+    "name":"Lee KiHyuck",
+    "avatar":"",
+    "email":"fad@fda.co.kr",
+    "salary": 2000,
+    "date":"2022-20-02",
+    "status":"Active"
+  }
+]
